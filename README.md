@@ -1,174 +1,199 @@
-<div align="center">
-
-# 🚢 Titanic Survival Prediction
-### *Machine Learning Project | CodSoft Data Science Internship*
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Titanic+Survival+Prediction;Machine+Learning+Project;Data+Science+Internship;Python+%7C+Scikit-Learn+%7C+Pandas" alt="Typing SVG" />
-
-![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-</div>
-
----
-
-## 📖 About the Project
-
-This project was completed as part of the **CodSoft Data Science Internship**.
-
-The goal is to build a Machine Learning model that predicts whether a passenger survived the Titanic disaster using historical passenger data.
-
-The project follows a complete Data Science workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
-
----
-
-## 📂 Dataset Features
-
-- PassengerId
-- Pclass
-- Name
-- Sex
-- Age
-- SibSp
-- Parch
-- Ticket
-- Fare
-- Cabin
-- Embarked
-- Survived (Target)
-
----
-
-## ⚙️ Project Workflow
-
-```text
-📥 Data Collection
-      │
-      ▼
-🧹 Data Cleaning
-      │
-      ▼
-📊 Exploratory Data Analysis
-      │
-      ▼
-🔧 Feature Engineering
-      │
-      ▼
-🤖 Model Training
-      │
-      ▼
-📈 Model Evaluation
-      │
-      ▼
-🎯 Survival Prediction
-```
-
----
-
-## 🛠️ Technologies Used
+# 🚀 CodSoft Machine Learning Internship Projects
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,github" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CodSoft+Machine+Learning+Internship;Hands-on+Machine+Learning+Projects;Learning+%7C+Building+%7C+Growing" alt="Typing Animation" />
 </p>
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+</p>
 
 ---
 
-## 🤖 Machine Learning Models
+## 📌 About
 
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
+Welcome to my **CodSoft Machine Learning Internship** repository.
 
----
+This repository contains the projects I completed during my internship, where I explored the complete Machine Learning workflow—from data preprocessing and visualization to model building and evaluation.
 
-## 📊 Evaluation Metrics
-
-- Accuracy Score
-- Confusion Matrix
-- Classification Report
+Each project helped strengthen my practical understanding of Data Science and Machine Learning through real-world datasets.
 
 ---
 
-## 📁 Project Structure
+## 🎯 Internship Tasks
+
+### 🚢 Task 1 — Titanic Survival Prediction
+
+Predict whether a passenger survived the Titanic disaster using Machine Learning.
+
+### Key Highlights
+
+* Data Cleaning
+* Missing Value Handling
+* Exploratory Data Analysis
+* Feature Engineering
+* Classification Models
+* Model Evaluation
+
+---
+
+### 🎬 Task 2 — Movie Rating Prediction
+
+Predict movie ratings using regression techniques based on movie-related features.
+
+### Key Highlights
+
+* Data Preprocessing
+* Feature Encoding
+* Regression Models
+* Performance Evaluation
+* Visualization
+
+---
+
+### 🌸 Task 3 — Iris Flower Classification
+
+Classify Iris flowers into different species using their petal and sepal measurements.
+
+### Key Highlights
+
+* Data Visualization
+* Feature Analysis
+* Classification Algorithms
+* Accuracy Evaluation
+
+---
+
+# 🛠️ Tech Stack
+
+| Category      | Tools                       |
+| ------------- | --------------------------- |
+| Language      | Python                      |
+| IDE           | Jupyter Notebook            |
+| Libraries     | Pandas, NumPy, Scikit-learn |
+| Visualization | Matplotlib, Seaborn         |
+
+---
+
+# 📂 Repository Structure
 
 ```text
-Titanic-Survival-Prediction
+CodSoft-ML/
 │
-├── Titanic.ipynb
-├── train.csv
-├── requirements.txt
+├── Titanic-Survival-Prediction/
+│
+├── Movie-Rating-Prediction/
+│
+├── Iris-Flower-Classification/
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Installation
+# 📊 Machine Learning Workflow
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Titanic-Survival-Prediction.git
-```
-
-### Move into the Project Folder
-
-```bash
-cd Titanic-Survival-Prediction
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Notebook
-
-```bash
-jupyter notebook
+```text
+Dataset
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Exploratory Data Analysis
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Model Building
+   │
+   ▼
+Training
+   │
+   ▼
+Evaluation
+   │
+   ▼
+Prediction
 ```
 
 ---
 
-## 📈 Learning Outcomes
+# 📈 Skills Gained
 
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Data Visualization
-
-✔ Feature Engineering
-
-✔ Machine Learning
-
-✔ Model Evaluation
-
-✔ Predictive Modeling
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis
+* Feature Engineering
+* Machine Learning
+* Classification
+* Regression
+* Model Evaluation
+* Problem Solving
 
 ---
 
-## 🙏 Acknowledgement
+# 📚 Libraries Used
 
-I sincerely thank **CodSoft** for providing this opportunity through the **Data Science Internship**, helping me gain practical experience in Machine Learning and Data Science.
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
 ---
 
-<div align="center">
+# 🌟 Project Highlights
 
-### ⭐ If you found this project helpful, consider giving it a star!
+✅ Real-world datasets
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=for-the-badge)
+✅ End-to-End Machine Learning Pipeline
 
-Made with ❤️ using Python
+✅ Data Visualization
 
-</div>
+✅ Feature Engineering
+
+✅ Predictive Modeling
+
+✅ Model Evaluation
+
+---
+
+# 📸 Project Banner (Optional)
+
+Replace this with your own project image.
+
+```markdown
+![Banner](images/banner.png)
+```
+
+---
+
+# 🤝 Acknowledgement
+
+A sincere thank you to **CodSoft** for providing this internship opportunity and practical Machine Learning projects that enhanced my understanding of Data Science and Machine Learning.
+
+---
+
+# 📬 Connect With Me
+
+GitHub:
+https://github.com/subhashreesahoo0X0
+
+LinkedIn:
+https://linkedin.com/in/subhashree-sahoo
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Keep+Learning+Keep+Building!;Happy+Coding!" />
+</p>
+
+---
+
+⭐ **If you found this repository helpful, consider giving it a star!**
